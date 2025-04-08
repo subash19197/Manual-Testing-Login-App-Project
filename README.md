@@ -37,7 +37,7 @@ This project demonstrates manual testing of a sample login web application using
 
 
 ## 📎 Project Link
-[click here-https://github.com/subash19197/Manual-Testing-Login-App-Project/blob/main/Manual%20Testing%20-%20Login%20App%20Project%20-%20Sheet1.pdf](#)
+[https://github.com/subash19197/Manual-Testing-Login-App-Project/blob/main/Manual%20Testing%20-%20Login%20App%20Project%20-%20Sheet1.pdf](#)
 
 ## 🙋‍♂️ Author
 - **Name**: Subash  
