@@ -33,8 +33,8 @@ This project demonstrates manual testing of a sample login web application using
 |--------------|----------------|-----------------|------------------------|--------|
 | TC_01        | Valid Login    | student / Password123 | Dashboard opens | ✅ Pass |
 
-> ✅ Full test cases are available in [Test_Cases_Login_Module.pdf](#)  
-> *(Upload your PDF and paste the correct link here)*
+> ✅ Full test cases are available in [Manual Testing - Login App Project - Sheet1.pdf](#)  
+
 
 ## 📎 Project Link
 [Click here to view test cases (Google Drive/GitHub PDF)](#)
